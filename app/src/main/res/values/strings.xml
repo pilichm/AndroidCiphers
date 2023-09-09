@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidCiphers</string>
+    <string name="cipher_type_substitution">Substitution</string>
+    <string name="cipher_type_transposition">Transposition</string>
+    <string name="cipher_type_square">Square</string>
+</resources>

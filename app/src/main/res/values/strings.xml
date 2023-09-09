@@ -3,4 +3,20 @@
     <string name="cipher_type_substitution">Substitution</string>
     <string name="cipher_type_transposition">Transposition</string>
     <string name="cipher_type_square">Square</string>
+
+    <!-- Substitution ciphers -->
+    <string name="btn_caesar_cipher">Caesar cipher</string>
+    <string name="btn_rot_13">ROT13</string>
+    <string name="btn_affine_cipher">Affine cipher</string>
+    <string name="btn_autokey_cipher">Autokey cipher</string>
+    <string name="btn_hill_cipher">Hill cipher</string>
+
+    <!-- Transposition ciphers -->
+    <string name="btn_columnar_cipher">Columnar</string>
+    <string name="btn_rail_fence">Rail fence</string>
+
+    <!-- Square ciphers -->
+    <string name="btn_playfair_cipher">Playfair cipher</string>
+    <string name="btn_two_square">Two Square</string>
+    <string name="btn_four_square">Four square</string>
 </resources>

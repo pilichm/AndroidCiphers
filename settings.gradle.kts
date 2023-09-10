@@ -14,4 +14,3 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "AndroidCiphers"
-include(":app")
